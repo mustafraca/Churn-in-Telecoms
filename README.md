@@ -1,5 +1,5 @@
 # Churn-in-Telecoms
-Churn in Telecoms veri seti bir telekom şirketinin müşterileri hakkında veriler içerir. Her satır bir müşteriyi temsil eder ve sütunlar müşterinin özelliklerini içerir. 
+Churn in Telecoms veri seti bir telekom şirketinin müşterileri hakkında veriler içerir. Her satır bir müşteriyi temsil eder ve sütunlar müşterinin özelliklerini içerir.<br>
 state: kullanıcının yaşadığı eyalet
 account length: kullanıcının bu hesaba sahip olduğu gün sayısı
 area code: kullanıcının yaşadığı alanın kodu
