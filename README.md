@@ -20,5 +20,5 @@ total intl minutes: kullanıcının uluslararası aramalarda bulunduğu toplam d
 total intl calls: kullanıcının yaptığı uluslararası aramaların toplam sayısı<br>
 total intl charge: kullanıcının uluslararası aramaları için Telekom şirketi tarafından alınan toplam para miktarı<br>
 customer service calls: kullanıcının yaptığı müşteri hizmeti çağrılarının sayısı<br>
-churn: kullanıcı sözleşmeyi feshettiğinde True, aksi takdirde False<br>
+churn: kullanıcı sözleşmeyi feshettiğinde True, aksi takdirde False<br><br>
 Veri setinde bağımlı değişken “churn” olmaktadır. Müşteri, aboneliği iptal etti mi sorusunun cevabını içermektedir. Ayrıldı ise True, ayrılmadı ise False değeri olmakta. Yani hedef öznitelik “churn” seçilir ve tahmine dayalı analiz yapılır. Bu bir sınıflandırma problemidir.
